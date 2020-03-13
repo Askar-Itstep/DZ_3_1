@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DZ_3_1</string>
+    <string name="action_edit">Редактировать</string>
+    <string name="action_remove">Удалить</string>
+    <string name="action_add">Добавить</string>
+    <string name="action_read_file">Открыть файл</string>
+    <string name="action_save_file">Сохранить файл</string>
+    <string name="action_create_humans">Загрузить список сотрудников</string>
+</resources>
